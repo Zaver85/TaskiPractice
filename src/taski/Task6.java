@@ -41,8 +41,8 @@ public class Task6 {
         result[8] = new int[9];
         result[9] = new int[10];
 
-        for (int i = 0; i < 10; i++) {
-            for (int j = 0; j <= i; j++) {
+        for (int i = 0; i < result.length; i++) {
+            for (int j = 0; j < result[i].length; j++) {
                 result[i][j] = i + j;
                 System.out.print(result[i][j]);
                 System.out.print(" ");
