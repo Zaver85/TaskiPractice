@@ -1,3 +1,9 @@
+/*В методе main(String[]) выведи на экран все числа из трехмерного массива multiArray.
+
+Требования:
+        •	В классе Solution должна быть публичная статическая переменная multiArray типа int[][][].
+        •	В методе main(String[]) выведи на экран все числа из multiArray.*/
+
 package taski;
 
 public class Task8 {
