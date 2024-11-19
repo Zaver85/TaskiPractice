@@ -5,7 +5,7 @@ package taski;
 
 import java.util.Scanner;
 
-public class Task4 {
+public class Task0004 {
     public static String[] strings;
 
     public static void main(String[] args) {

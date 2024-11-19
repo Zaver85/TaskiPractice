@@ -24,7 +24,7 @@ package taski;
 
 import java.util.Scanner;
 
-public class Task7 {
+public class Task0007 {
     public static int[][] multiArray;
 
     public static void main(String[] args) {

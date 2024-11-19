@@ -26,7 +26,7 @@ array[2] = new int[3];
 
 package taski;
 
-public class Task6 {
+public class Task0006 {
     public static int[][] result = new int[10][];
 
     public static void main(String[] args) {

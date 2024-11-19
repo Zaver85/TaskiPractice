@@ -8,7 +8,7 @@ package taski;
 
 import java.util.Scanner;
 
-public class Task3 {
+public class Task0003 {
     public static int[] array;
 
     public static void main(String[] args) {

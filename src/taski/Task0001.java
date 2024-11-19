@@ -9,7 +9,7 @@ package taski;
 
 import java.util.Scanner;
 
-public class Task1 {
+public class Task0001 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int N = scanner.nextInt();

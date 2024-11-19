@@ -15,7 +15,7 @@
 
 package taski;
 
-public class Task5 {
+public class Task0005 {
 
     public static int[][] MULTIPLICATION_TABLE;
 
