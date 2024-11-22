@@ -13,7 +13,7 @@
         •	В методе main() должны вызываться методы printHydrogenInfo() и printJavaInfo().*/
 
 
-package taski;
+package taskiFrom0001To0020;
 
 
 public class Task0016 {

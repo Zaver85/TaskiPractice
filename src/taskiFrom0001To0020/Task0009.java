@@ -7,7 +7,7 @@
         •	В методе main(String[]) выведи в консоли массив strings с помощью метода Arrays.toString(Object[]).
         •	В методе main(String[]) выведи в консоли массив ints с помощью метода Arrays.toString(int[]).*/
 
-package taski;
+package taskiFrom0001To0020;
 
 import java.util.Arrays;
 

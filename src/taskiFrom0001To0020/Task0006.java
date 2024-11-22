@@ -24,7 +24,7 @@ array[2] = new int[3];
         •	Выведенный текст должен содержать 10 строк.
 •	Выведенные числа должны соответствовать условию.*/
 
-package taski;
+package taskiFrom0001To0020;
 
 public class Task0006 {
     public static int[][] result = new int[10][];

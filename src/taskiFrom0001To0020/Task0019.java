@@ -12,7 +12,7 @@ name4 в flightEngineer
         •	Вывод в консоли должен соответствовать условию задачи.
 •	В методе main() переменные navigator, pilot, secondPilot и flightEngineer должны остаться без изменений.*/
 
-package taski;
+package taskiFrom0001To0020;
 
 public class Task0019 {
     public static void main(String[] args) {

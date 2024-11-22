@@ -4,7 +4,7 @@
         •	В классе должна быть публичная статическая переменная multiArray типа int[][][].
         •	В методе main(String[]) выведи на экран все числа из multiArray.*/
 
-package taski;
+package taskiFrom0001To0020;
 
 public class Task0008 {
     public static int[][][] multiArray = new int[][][]{{{4, 8, 15}, {16}}, {{23, 42}, {}}, {{1}, {2}, {3}, {4, 5}}};

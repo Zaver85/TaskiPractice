@@ -7,7 +7,7 @@
         Требования:
         •	Реализуй метод main(String[]) согласно условию.*/
 
-package taski;
+package taskiFrom0001To0020;
 
 import java.util.Arrays;
 

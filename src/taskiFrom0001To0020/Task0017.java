@@ -8,7 +8,7 @@
         •	Метод main() должен быть единственным методом в классе Solution.
         •	Вывод в консоли должен соответствовать условию задачи.*/
 
-package taski;
+package taskiFrom0001To0020;
 
 public class Task0017 {
     public static void main(String[] args) {

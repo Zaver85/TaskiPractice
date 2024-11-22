@@ -4,7 +4,7 @@
         •	Если arrayFirst равняется arraySecond, то метод main(String[]) выводит в консоли true.
         •	Если arrayFirst не равняется arraySecond, то метод main(String[]) выводит в консоли false.*/
 
-package taski;
+package taskiFrom0001To0020;
 
 import java.util.Arrays;
 

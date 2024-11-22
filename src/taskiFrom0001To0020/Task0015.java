@@ -16,7 +16,7 @@ Arrays.binarySearch(int[], int) класса Arrays. Первым парамет
 •	При вызове метода main(String[]) вывести в консоли false, если переданный элемент не содержится в массиве.
 •	В методе main(String[]) используй вызов метода Arrays.binarySearch(int[], int).*/
 
-package taski;
+package taskiFrom0001To0020;
 
 import java.util.Arrays;
 

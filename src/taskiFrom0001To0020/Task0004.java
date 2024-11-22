@@ -1,7 +1,7 @@
 //Считать 6 строк и заполнить ими массив strings.
 //Удалить повторяющиеся строки из массива strings, заменив их на null (null должны быть не строками "null").
 
-package taski;
+package taskiFrom0001To0020;
 
 import java.util.Scanner;
 

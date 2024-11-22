@@ -10,7 +10,7 @@ favouriteDish в meal;
         •	Вывод в консоль должен соответствовать условию задачи.
 •	В методе main() переменные firstName, lastName, favouriteDish должны остаться без изменений.*/
 
-package taski;
+package taskiFrom0001To0020;
 
 public class Task0018 {
     public static void main(String[] args) {

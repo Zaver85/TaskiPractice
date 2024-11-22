@@ -12,7 +12,7 @@
 Требования:
         •	Метод reverseArray() должен менять порядок элементов массива на обратный.*/
 
-package taski;
+package taskiFrom0001To0020;
 
 public class Task0020 {
     public static void main(String[] args) {

@@ -4,7 +4,7 @@
 //Считать N целых чисел и заполнить ими массив array.
 //Найти максимальное число среди элементов массива.
 
-package taski;
+package taskiFrom0001To0020;
 
 import java.util.Scanner;
 

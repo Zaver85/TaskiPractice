@@ -20,7 +20,7 @@
 Требования:
         •	В классе должна быть не проинициализированная публичная статическая переменная multiArray типа int[][].*/
 
-package taski;
+package taskiFrom0001To0020;
 
 import java.util.Scanner;
 
