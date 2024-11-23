@@ -16,8 +16,6 @@
 
 package taskiFrom0021To0040;
 
-import java.lang.reflect.Array;
-
 public class Task0024 {
     public static void main(String[] args) {
         System.out.printf(String.valueOf(ninthDegree(3)));
