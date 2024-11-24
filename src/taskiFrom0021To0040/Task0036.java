@@ -14,10 +14,10 @@ package taskiFrom0021To0040;
 public class Task0036 {
     public static void main(String[] args) {
         div(0.0, 100.0);
-        div(0.0, -100.0 );
+        div(0.0, -100.0);
     }
 
-    public static void div(double a, double b){
-        System.out.println(b/a);
+    public static void div(double a, double b) {
+        System.out.println(b / a);
     }
 }
