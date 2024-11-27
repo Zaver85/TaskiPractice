@@ -15,7 +15,6 @@
 
 package taskiFrom0041To0060;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class Task0049 {
