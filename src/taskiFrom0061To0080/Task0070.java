@@ -27,12 +27,12 @@
 Метод main() не принимает участие в тестировании.
 
 Требования:
-        •	Нужно, чтобы метод toHex(int) был реализован согласно условию.
-        •	Нужно, чтобы метод toDecimal(String) был реализован согласно условию.
-        •	Методы Integer.toHexString(int) и Long.toHexString(int) использовать нельзя.
-        •	Методы Integer.parseInt(String, int) и Long.parseLong(String, int) использовать нельзя.
-        •	Методы Integer.toString(int, int) и Long.toString(long, int) использовать нельзя.
-        •	Объект типа BigInteger использовать нельзя.
+•	Нужно, чтобы метод toHex(int) был реализован согласно условию.
+•	Нужно, чтобы метод toDecimal(String) был реализован согласно условию.
+•	Методы Integer.toHexString(int) и Long.toHexString(int) использовать нельзя.
+•	Методы Integer.parseInt(String, int) и Long.parseLong(String, int) использовать нельзя.
+•	Методы Integer.toString(int, int) и Long.toString(long, int) использовать нельзя.
+•	Объект типа BigInteger использовать нельзя.
 •	Объект типа BigDecimal использовать нельзя.*/
 
 package taskiFrom0061To0080;
