@@ -15,12 +15,12 @@ package taskiFrom0041To0060;
 
 public class Task0060 {
     public static int setFlag(int number, int flagPos) {
-        number = number | (1 << flagPos);//напишите тут ваш код
+        number = number | (1 << flagPos);
         return number;
     }
 
     public static int resetFlag(int number, int flagPos) {
-        number = number & ~(1 << flagPos);//напишите тут ваш код
+        number = number & ~(1 << flagPos);
         return number;
     }
 
