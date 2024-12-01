@@ -17,8 +17,6 @@ replace(int, int, String), в который передать начальную
 
 package taskiFrom0081To0100;
 
-import java.util.Arrays;
-
 public class Task0081 {
     public static void main(String[] args) {
         String string = "Учиться, учиться и еще раз учиться! ";
