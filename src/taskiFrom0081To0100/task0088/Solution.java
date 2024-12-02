@@ -16,7 +16,7 @@
 •	В методе main должно быть создано 3 объекта классов HybridCar, GasCar и ElectricCar.
 •	Вывод должен соответствовать услови*/
 
-package task0088;
+package taskiFrom0081To0100.task0088;
 
 public class Solution {
     public static void main(String[] args) {
