@@ -8,7 +8,7 @@
 •	В методе main должен быть создан один объект класса Hedgehog.
 •	В методе main у объекта класса Hedgehog нужно вызвать метод eat и передать созданный объект класс Apple.*/
 
-package taskiFrom0081To0100.taski0097;
+package taskiFrom0081To0100.task0097;
 
 public class Hedgehog {
 
