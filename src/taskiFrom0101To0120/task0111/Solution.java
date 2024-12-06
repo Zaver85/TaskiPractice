@@ -4,7 +4,7 @@
 Не забудь подкорректировать их вызовы.
 
 Требования:
-•	В классе Solution нужно создать вложенный (static nested) класс Calculator.
+•	В классе taskiFrom0121To0140.task0121.Solution нужно создать вложенный (static nested) класс Calculator.
 •	Методы add, subtract, multiply и divide нужно перенести в класс Calculator.
 •	В методе main должны быть вызваны методы add, subtract, multiply и divide класса Calculator.*/
 

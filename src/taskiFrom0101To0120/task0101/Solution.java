@@ -1,12 +1,12 @@
-/*В классе Solution есть поле currentYear, которое должно инициализироваться значением
-текущего года(Calendar.getInstance().get(Calendar.YEAR)) при создании нового объекта типа Solution.
-Тебе нужно найти ошибку и исправить её, чтобы при создании объекта класса Solution
+/*В классе taskiFrom0121To0140.task0121.Solution есть поле currentYear, которое должно инициализироваться значением
+текущего года(Calendar.getInstance().get(Calendar.YEAR)) при создании нового объекта типа taskiFrom0121To0140.task0121.Solution.
+Тебе нужно найти ошибку и исправить её, чтобы при создании объекта класса taskiFrom0121To0140.task0121.Solution
 поле currentYear правильно инициализировалось.
 
 Требования:
-•	В классе Solution должно быть приватное не статическое поля currentYear типа int.
-•	В классе Solution должен быть геттер getCurrentYear для поля currentYear.
-•	При создании объекта класса Solution, currentYear должно инициализироваться значением
+•	В классе taskiFrom0121To0140.task0121.Solution должно быть приватное не статическое поля currentYear типа int.
+•	В классе taskiFrom0121To0140.task0121.Solution должен быть геттер getCurrentYear для поля currentYear.
+•	При создании объекта класса taskiFrom0121To0140.task0121.Solution, currentYear должно инициализироваться значением
         текущего года (используй метод Calendar.getInstance().get(Calendar.YEAR)).*/
 
 package taskiFrom0101To0120.task0101;
