@@ -33,8 +33,4 @@ public class Solution {
 
     Character characterValueBox = Character.valueOf(charValue);
     Boolean booleanValueBox = Boolean.valueOf(booleanValue);
-
-    public static void main(String[] args) {
-
-    }
 }
