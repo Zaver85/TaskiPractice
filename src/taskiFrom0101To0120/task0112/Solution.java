@@ -1,9 +1,9 @@
 /*В классе Outer есть внутренний (Inner) и вложенный (Nested) классы.
-В методе main класса taskiFrom0121To0140.task0121.Solution создай по одному объекту каждого из них.
+В методе main класса taskiFrom0121To0140.task0121.taskiFrom0141To0160.task0141.Solution создай по одному объекту каждого из них.
 
 Требования:
-•	В методе main класса taskiFrom0121To0140.task0121.Solution должен быть создан объект класса Inner.
-•	В методе main класса taskiFrom0121To0140.task0121.Solution должен быть создан объект класса Nested.
+•	В методе main класса taskiFrom0121To0140.task0121.taskiFrom0141To0160.task0141.Solution должен быть создан объект класса Inner.
+•	В методе main класса taskiFrom0121To0140.task0121.taskiFrom0141To0160.task0141.Solution должен быть создан объект класса Nested.
 •	Класс Outer изменять нельзя*/
 
 package taskiFrom0101To0120.task0112;
