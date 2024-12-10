@@ -13,7 +13,6 @@
 package taskiFrom0161To0180.task0164;
 
 import java.util.HashMap;
-import java.util.Map;
 
 public class Solution {
     public static HashMap<String, Double> grades = new HashMap<>();
