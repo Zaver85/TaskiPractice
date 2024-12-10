@@ -16,11 +16,9 @@
 
 package taskiFrom0141To0160.task0155;
 
-import java.util.Arrays;
 import java.util.HashSet;
 
 import static java.util.Arrays.asList;
-import static java.util.Arrays.sort;
 
 public class Solution {
     public static HashSet<String> words = new HashSet<>(asList("Если бы меня попросили выбрать язык на замену Java я бы не выбирал".split(" ")));
